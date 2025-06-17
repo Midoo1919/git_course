@@ -1,2 +1,2 @@
 # git_course
-just training
+## just training
